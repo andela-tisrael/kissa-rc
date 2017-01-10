@@ -1,2 +1,4 @@
 *.json
 !dev.settings.json
+settings.json
+
